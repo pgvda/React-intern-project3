@@ -1,0 +1,13 @@
+.todo_list {
+    height: auto;
+    width: 500px;
+    margin:50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn_section {
+    display: flex;
+    flex-direction: row;
+}
